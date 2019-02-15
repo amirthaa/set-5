@@ -1,0 +1,6 @@
+s1=input("enter string")
+s2=input("enter string")
+if (s1>s2):
+    print(s1)
+else:
+    print(s2)
