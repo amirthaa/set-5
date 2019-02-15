@@ -1,0 +1,4 @@
+s1=input("enter string")
+s2=input("enter string")
+s3=(s1+s2)
+print(s3)
