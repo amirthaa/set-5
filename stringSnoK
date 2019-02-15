@@ -1,0 +1,5 @@
+s=input("enter string")
+k=int(input("enter number"))
+i=0
+for i in range(0,k):
+    print(s)
